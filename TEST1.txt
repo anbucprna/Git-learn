@@ -1,1 +1,2 @@
-git pull test
+git status
+edited pull testgit git
